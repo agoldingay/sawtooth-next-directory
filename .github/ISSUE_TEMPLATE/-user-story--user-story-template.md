@@ -1,17 +1,16 @@
 ---
-name: NEXT User Story Template
+name: "[User Story] User Story Template"
 about: Details high level story from viewpoint of different stakeholders. Leave blank
   if explanation not applicable
 
 ---
 
-[Task] [User Story] [Epic] | e.g. Define Role Type, Multi-party approval, Approval configuration
+[User Story] [Epic] | Multi-party approval, Approval configuration
 ----------|----------
-Task | (Task NAME)
 Epic Title | (Epic NAME)
 User Story Title | (Story NAME)
-T-shirt size | S(mall), M(edium), L(arge)
-Story Points - Fibonacci (1,2,3,5,8,13) | 8
+T-shirt size: S(mall), M(edium), L(arge) | 
+Story Points - Fibonacci (1,2,3,5,8,13) | 
 User Story | [Value Statement] "As a user of a certain type (specify), I want to do something (action) so I can provide business value"
 Description | A short description 
 Business Need (the why): | from epic, if needed
