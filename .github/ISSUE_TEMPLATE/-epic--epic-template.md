@@ -9,11 +9,11 @@ Epic | e.g. Active Directory Integration
 ----------|----------
 Epic Title | e.g. Active Directory Integration
 T-shirt size default is L(arge) | L
-Description | 
-Business Need (the why): | 
+Description | A short description
+Business Need (the why): | business value of this feature
 Stakeholders | 
-Details | 
-User Scenarios | 
+Details | All the details needed to accomplish the story. Tasks - can be linked
+User Scenarios | names of user stories should suffice
 Acceptance Criteria/Tests | _The list of tests or criteria to be used to validate the story has been completed. May still need UAT or SIT / integration testing with other stories._
 Failure | _if any, fold in negative tests_
 Definition of Done | _e.g.Passes all regression tests, Passes testing per acceptance criteria, Approved by UI team, Able to show feature in demo_                                                                                                    
